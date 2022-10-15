@@ -3,7 +3,7 @@ author = "vincent"
 categories = []
 date = 2022-10-14T22:00:00Z
 description = "test"
-images = ["assets/images/ad.png", "assets/images/favicon.png"]
+images = ["assets/images/post/07.jpg", "assets/images/ad.png"]
 tags = [""]
 title = "test"
 

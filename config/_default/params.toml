@@ -26,7 +26,7 @@ search = true # (if Search is disable/false Menu will align in Right)
 image_gallery = true
 # copyright
 theme_copyright = true
-copyright = "&copy; Copyright by Bookworm"
+copyright = "Made by Vincent Verstraeten with Hugo, forestry.io and hosted on netlify"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"

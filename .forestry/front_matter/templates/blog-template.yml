@@ -23,5 +23,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- content/english/blog/test.md

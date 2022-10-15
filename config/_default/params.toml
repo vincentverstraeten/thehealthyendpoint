@@ -33,7 +33,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script= ""
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xwkzqdqa" # contact form works with https://formspree.io
+contact_form_action = "https://formsubmit.co/el/vebize" # contact form works with https://formspree.io or others
 
 # Preloader
 [preloader]

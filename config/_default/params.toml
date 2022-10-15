@@ -9,7 +9,7 @@ logo_width = "208px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Bookworm"
+logo_text = "The Healthy Endpoint"
 
 # Menu align
 menu_align = "center" # Menu-align value "left", "right" or "center" (if Search is disable/false Menu will align in Right)

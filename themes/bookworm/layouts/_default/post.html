@@ -1,0 +1,45 @@
+<article class="card post-card">
+  {{with .Params.images}}
+  <div class="post-slider slider-sm rounded mb-4">
+    {{ range .}}
+    {{ partial "images/image.html" (dict "Src" . "Class" "w-100 h-auto" "Alt" "post-thumb") }}
+    {{ end }}
+  </div>
+  {{end}}
+
+  <div class="card-body">
+    <ul class="card-meta list-inline mb-2">
+      <li class="list-inline-item mb-2">
+        {{ $author:= .Params.Author | urlize | lower}}
+        {{ with site.GetPage $author }}
+        <a href="{{.Permalink}}" class="card-meta-author">
+          {{ if .Params.image }}
+          {{ partial "images/image.html" (dict "Src" .Params.image "Command" "Fill" "Size" "26x26" "Alt" .Title) }}
+          {{else if .Params.Email}}
+          <a href="{{.Permalink}}" class="card-meta-author">
+            <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=26&pg&d=identicon">
+          </a>
+          {{ end }}
+          <span>{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </li>
+      <li class="list-inline-item mb-2">
+        <span>{{.PublishDate.Format "02 Jan, 2006"}}</span>
+      </li>
+      <li class="list-inline-item mb-2">
+        <ul class="card-meta-tag list-inline">
+          {{range .Params.tags}}
+          <li class="list-inline-item"><a href="{{site.BaseURL}}tags/{{.| urlize}}">{{.}}</a></li>
+          {{end}}
+        </ul>
+      </li>
+    </ul>
+    <h3 class="h4 mb-3">
+      <a class="post-title" href="{{.Permalink}}">{{.Title}}</a>
+    </h3>
+    <p>{{ .Plain | truncate 150 }}</p>
+
+    <a href="{{.Permalink}}" aria-label="Read Article">{{ i18n "read_article" }} <i class="fas fa-angle-right"></i></a>
+  </div>
+</article>

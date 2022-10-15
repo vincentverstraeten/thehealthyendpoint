@@ -3,7 +3,6 @@ author = "vincent"
 categories = []
 date = 2022-10-14T22:00:00Z
 description = "test"
-draft = true
 images = ["assets/images/ad.png", "assets/images/favicon.png"]
 tags = [""]
 title = "test"

@@ -10,4 +10,6 @@ title = "test"
 +++
 test tet
 
+![](/images/post/07.jpg)
+
 ![](/images/2022/10/thehealthyendpointlogo.png)

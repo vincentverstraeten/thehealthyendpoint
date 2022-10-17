@@ -2,6 +2,7 @@
 title: How to make toys from old Olarpaper
 description: meta description
 images:
+- ''
 - images/post/06.jpg
 - images/post/010.jpg
 - images/post/011.jpg

@@ -14,8 +14,8 @@ sections:
   label: English
   create: all
   match: "**/*"
-upload_dir: assets/images/post
-public_path: assets/images/post
+upload_dir: thehealthyendpoint/assets/images
+public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year::month::filename:"

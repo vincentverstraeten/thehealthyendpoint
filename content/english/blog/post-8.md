@@ -18,12 +18,12 @@ categories:
 ---
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam.taque endi natus aperi![](/assets/images/2022-10-thehealthyendpointlogo.png)am? Excepturi repellendus consequatur quibusdam optio expedita praesentim est adipisci dolorem ut eius!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam.taque endi natus aperim? Excepturi repellendus consequatur quibusdam optio expedita praesentim est adipisci dolorem ut eius!
 
 ### Creative Design
 
     Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aper![](/assets/images/202210my-project-logo.png)iam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiamxcepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 >
-> > ![](/assets/images/post/06.jpg)![](assets/images/post/03.jpg)Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius
+> em ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius

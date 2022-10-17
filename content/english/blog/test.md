@@ -8,8 +8,4 @@ tags = ["mdm"]
 title = "test"
 
 +++
-test tet
-
-![](/images/post/07.jpg)
-
-![](/images/2022/10/thehealthyendpointlogo.png)
+test tet![](/images/2022/10/my-project-logo.png)

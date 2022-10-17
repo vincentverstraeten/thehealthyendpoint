@@ -8,4 +8,4 @@ tags = []
 title = "test 2"
 
 +++
-testzer
+testzer![](assets/images/2022/10/2098678.jpg)

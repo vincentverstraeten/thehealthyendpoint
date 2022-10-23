@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/healthynobgpng.png"
 # logo
 logo = "images/thehealthyendpointnobg.png"
 # use `px` or `x` with logo_width, example: "100px".

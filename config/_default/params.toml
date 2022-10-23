@@ -135,9 +135,9 @@ sidebar = ["search", "categories", "tags", "social"]
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://twitter.com/"
+url = "https://twitter.com/"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/in/vincent-verstraeten/"
+url = "https://www.linkedin.com/in/vincent-verstraeten/"

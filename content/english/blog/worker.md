@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = []
-date = ""
+date = 2022-10-22T22:00:00Z
 description = ""
 images = ["/images/worker.png"]
 tags = []

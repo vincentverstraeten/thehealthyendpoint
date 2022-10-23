@@ -12,7 +12,7 @@ logo_webp = true
 logo_text = "The Healthy Endpoint"
 
 # Menu align
-menu_align = "left" # Menu-align value "left", "right" or "center" (if Search is disable/false Menu will align in Right)
+menu_align = "center" # Menu-align value "left", "right" or "center" (if Search is disable/false Menu will align in Right)
 # Main section
 mainSections = ["blog"]
 # Post layout

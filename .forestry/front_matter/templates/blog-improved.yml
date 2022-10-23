@@ -23,5 +23,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- content/english/blog/werkt-het-nu.md

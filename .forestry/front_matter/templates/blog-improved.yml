@@ -25,4 +25,5 @@ fields:
   label: title
 pages:
 - content/english/blog/blogpost sidebartest.md
+- content/english/blog/blogposteleni.md
 - content/english/main page test.md

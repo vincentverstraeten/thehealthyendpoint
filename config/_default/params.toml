@@ -140,7 +140,7 @@ link = "https://www.facebook.com/vincent.verstraeten"
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://twitter.com/Vinverstraet"
+link = "twitter.com/Vinverstraet"
 
 [[social]]
 title = "instagram"

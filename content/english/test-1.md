@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "vincent"
 categories = []
-date = ""
+date = 2022-10-22T22:00:00Z
 description = "test 1"
 images = ["assets/images/2022/10/processed-14c8954d-2d27-48d1-a8bd-366916c7d8cd_ixvvadt5.jpeg"]
 tags = []

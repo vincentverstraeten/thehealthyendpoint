@@ -2,7 +2,8 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/thehealthyendpointlogo.png"
+logo = "images/thehealthyendpointnobg.png"
+"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "240px"

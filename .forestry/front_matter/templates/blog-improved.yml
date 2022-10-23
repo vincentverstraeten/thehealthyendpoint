@@ -24,4 +24,5 @@ fields:
   name: title
   label: title
 pages:
+- content/english/blog/blogpost sidebartest.md
 - content/english/main page test.md

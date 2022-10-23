@@ -13,3 +13,5 @@ title = ""
 ![](/images/logomulish.png)
 
 over deze blog
+
+![](/images/post/02.jpg)

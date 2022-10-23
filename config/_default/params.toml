@@ -27,7 +27,7 @@ search = true # (if Search is disable/false Menu will align in Right)
 image_gallery = true
 # copyright
 theme_copyright = false
-copyright = "Made by Vincent Verstraeten with Hugo, Forestry.io and Hosted on netlify"
+copyright = "Made by Vincent Verstraeten with Hugo, Forestry.io and Hosted on Netlify"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"

@@ -24,7 +24,5 @@ fields:
   name: categories
   label: categories
 pages:
-- content/blogposts/test-blogpost.md
 - content/english/blog/eerste-post.md
 - content/english/blog/test-2.md
-- content/english/test-1.md

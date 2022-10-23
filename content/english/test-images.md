@@ -11,3 +11,5 @@ title = "test images"
 test![](/images/healthyendpointlogo1.png)
 
 verder klooien
+
+![](/images/healthyendpointlogo1.png)

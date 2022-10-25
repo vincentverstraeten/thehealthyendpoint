@@ -23,7 +23,7 @@ what_i_do:
     description: Endpoint Management.
   - title: Security
     icon: fab fa-solid fa-shield-heart
-    description: Automate the deployment and management of your devices.
+    description: Security.
   - title: Automation
     icon: las fa-solid fa-robot
     description: Automate the deployment and management of your devices.

@@ -4,8 +4,8 @@ layout: about
 image: images/about.jpg
 caption:
   enable: true
-  title: I’m Vincent Verstraeten and welcome to The Healthy Endpoint. 
-  I hope this blog will help you keep your endpoints healthy & secure.
+  title: "I’m Vincent Verstraeten and welcome to The Healthy Endpoint. 
+  I hope this blog will help you keep your endpoints healthy & secure."
 social:
   enable: true
   social_links:

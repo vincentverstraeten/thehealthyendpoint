@@ -20,13 +20,13 @@ what_i_do:
   enable: true
   item:
   - title: Device Management
-    icon: fas fa-solid fa-laptop-medical
+    icon: las fa-laptop-medical
     description: Endpoint Management
   - title: Security & Compliance
-    icon: fas fa-solid fa-shield-cross
+    icon: las fa-shield-cross
     description: Keeping your devices compliant & Secure
   - title: Automate
-    icon: fas fa-solid fa-robot
+    icon: lar fa-robot
     description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
       non purus eget ipsum elementum venenatis.
 

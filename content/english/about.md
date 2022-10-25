@@ -22,12 +22,11 @@ what_i_do:
     icon: las fa-solid fa-laptop-medical
     description: Endpoint Management
   - title: Security & Compliance
-    icon: las fa-solid fa-shield-cross
+    icon: las fa-shield-cross
     description: Keeping your devices compliant & Secure
-  - title: Automate
+  - title: Automation
     icon: las fa-solid fa-robot
-    description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
-      non purus eget ipsum elementum venenatis.
+    description: Automate the deployment and management of your devices.
 
 ---
 I'm Vincent Verstraeten and welcome to The Healthy Endpoint.

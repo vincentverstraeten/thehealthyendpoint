@@ -21,7 +21,7 @@ what_i_do:
   - title: Device Management
     icon: las fa-solid fa-laptop-medical
     description: Endpoint Management
-  - title: Security & Compliance
+  - title: Security 
     icon: las fa-solid fa-shield-heart
     description: Keeping your devices compliant & Secure
   - title: Automation

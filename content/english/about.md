@@ -29,14 +29,8 @@ what_i_do:
     description: Automate the deployment and management of your devices.
 
 ---
-I'm Vincent Verstraeten and welcome to The Healthy Endpoint.
-
 I specialise in automation and modern system management. 
 
-Most of the time i work with Microsoft Intune.
-
-This blog reflects the difficulties & problems that i face while managing endpoints.
+This blog reflects the difficulties & problems that i face while a manage my endpoints.
 
 I hope you enjoy reading some of my contributions.
-
-Please use my contact form if you have any questions. 

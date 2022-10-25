@@ -4,9 +4,7 @@ layout: about
 image: images/about.jpg
 caption:
   enable: true
-  title: "I’m Vincent Verstraeten and welcome to The Healthy Endpoint.
-  
-  I hope this blog will help you keep your endpoints healthy & secure."
+  title: "I’m Vincent Verstraeten and welcome to The Healthy Endpoint."
 social:
   enable: true
   social_links:
@@ -27,7 +25,7 @@ what_i_do:
     icon: las fa-solid fa-shield-cross
     description: Keeping your devices compliant & Secure
   - title: Automate
-    icon: lar fa-robot
+    icon: las fa-solid fa-robot
     description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
       non purus eget ipsum elementum venenatis.
 

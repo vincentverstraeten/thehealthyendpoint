@@ -24,6 +24,12 @@ what_i_do:
   - title: Automation
     icon: las fa-solid fa-robot
     description: Automate the deployment and management of your devices.
+  - title: Automation
+    icon: las fa-solid fa-robot
+    description: Automate the deployment and management of your devices.
+  - title: Security 
+    icon: las fa-solid fa-shield-heart
+    description: Securing devices.
 
 ---
 I'm Vincent Verstraeten and welcome to The Healthy Endpoint.

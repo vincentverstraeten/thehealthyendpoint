@@ -8,7 +8,7 @@ caption:
 social:
   enable: true
   social_links:
-  - link: https://twitter.com/Vinverstraetx
+  - link: https://twitter.com/Vinverstraet
     icon: fab fa-twitter
   - link: https://www.linkedin.com/in/vincent-verstraeten/
     icon: fab fa-linkedin-in

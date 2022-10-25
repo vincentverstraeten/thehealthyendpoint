@@ -22,7 +22,7 @@ what_i_do:
     icon: las fa-solid fa-laptop-medical
     description: Endpoint Management
   - title: Security & Compliance
-    icon: las fa-solid fa-shield-cross
+    icon: lar fa-solid fa-shield-cross
     description: Keeping your devices compliant & Secure
   - title: Automation
     icon: las fa-solid fa-robot

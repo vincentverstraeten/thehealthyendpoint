@@ -21,9 +21,6 @@ what_i_do:
   - title: Device Management
     icon: las fa-solid fa-laptop-medical
     description: Endpoint Management.
-  - title: Security 
-    icon: las fa-solid fa-shield-heart
-    description: Securing devices.
   - title: Automation
     icon: las fa-solid fa-robot
     description: Automate the deployment and management of your devices.

@@ -4,7 +4,8 @@ layout: about
 image: images/about.jpg
 caption:
   enable: true
-  title: I’m Vincent Verstraeten, A modern system administrator that lives and works in Antwerp. Welcome to my blog the healthy endpoint.
+  title: I’m Vincent Verstraeten and welcome to The Healthy Endpoint. 
+  I hope this blog will help you keep your endpoints healthy & secure.
 social:
   enable: true
   social_links:
@@ -18,16 +19,14 @@ what_i_do:
   title: What I Do
   enable: true
   item:
-  - title: Content Writing
-    icon: fas fa-pen-nib
-    description: Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus
-      eget ipsum elementum venenatis.
-  - title: Photography
-    icon: fas fa-camera
-    description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
-      non purus eget ipsum elementum venenatis.
-  - title: Web Research
-    icon: fas fa-snowflake
+  - title: Device Management
+    icon: fas fa-solid fa-laptop-medical
+    description: Endpoint Management
+  - title: Security & Compliance
+    icon: fas fa-solid fa-shield-cross
+    description: Keeping your devices compliant & Secure
+  - title: Automate
+    icon: fas fa-solid fa-robot
     description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
       non purus eget ipsum elementum venenatis.
 

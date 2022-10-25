@@ -4,18 +4,16 @@ layout: about
 image: images/about.jpg
 caption:
   enable: true
-  title: I’m Henara Colii, A content writer based in LDN, currently at Bookworm.
+  title: I’m Vincent Verstraeten, A modern system administrator that lives and works in Antwerp. Welcome to my blog the healthy endpoint.
 social:
   enable: true
   social_links:
-  - link: https://www.facebook.com/
-    icon: fab fa-facebook-f
-  - link: https://www.twitter.com/
+  - link: https://twitter.com/Vinverstraetx
     icon: fab fa-twitter
-  - link: https://www.linkedin.com/
-    icon: fab fa-instagram
-  - link: https://www.github.com/
+  - link: https://www.linkedin.com/in/vincent-verstraeten/
     icon: fab fa-linkedin-in
+  - link: https://github.com/vincentverstraeten
+    icon: fab fa-github
 what_i_do:
   title: What I Do
   enable: true

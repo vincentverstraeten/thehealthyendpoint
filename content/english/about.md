@@ -18,15 +18,15 @@ what_i_do:
   title: What I Do
   enable: true
   item:
-  - title: Device Management
+  - title: Devices
     icon: las fa-solid fa-laptop-medical
-    description: Endpoint Management.
+    description: Modern device management.
   - title: Security
     icon: fas fa-hand-holding-medical
     description: Secure identities & devices.
   - title: Automation
     icon: las fa-solid fa-robot
-    description: Automate the deployment and management of your devices.
+    description: Remediate and manage at scale with automations.
 
 ---
 I specialise in automation and modern system management. 

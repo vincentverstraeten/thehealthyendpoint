@@ -138,6 +138,11 @@ icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons
 url = "https://twitter.com/Vinverstraet"
 
 [[social]]
+title = "Github"
+icon = "fab fa-github"  # fontawesome icon pack : https://fontawesome.com/icons/
+url = "https://github.com/vincentverstraeten"
+
+[[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 url = "https://www.linkedin.com/in/vincent-verstraeten/"

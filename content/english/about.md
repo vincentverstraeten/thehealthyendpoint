@@ -26,7 +26,7 @@ what_i_do:
     description: Secure identities & devices.
   - title: Automation
     icon: las fa-solid fa-robot
-    description: Remediate and manage at scale with automations.
+    description: Remediate and manage at scale trough automations.
 
 ---
 I specialise in automation and modern system management. 

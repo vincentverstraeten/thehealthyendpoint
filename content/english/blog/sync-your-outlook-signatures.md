@@ -1,6 +1,6 @@
 +++
 author = "Vincent"
-categories = ["Office 365"]
+categories = []
 date = 2022-10-30T20:00:00Z
 description = "Outlook signatures"
 images = ["/images/syncoutllookaltered.png"]

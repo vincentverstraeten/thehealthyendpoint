@@ -23,7 +23,7 @@ what_i_do:
     description: Endpoint Management.
   - title: Security
     icon: fas fa-hand-holding-medical
-    description: Security.
+    description: Secure identities & devices.
   - title: Automation
     icon: las fa-solid fa-robot
     description: Automate the deployment and management of your devices.

@@ -14,4 +14,4 @@ Just finished this blog and this will be my first post in my own little place on
 
 From now on i can document and contribute to others with this blog. 
 
-I made this site with the [https://gohugo.io/](https://gohugo.io/ "Go Hugo Framework") and used and altered the [Bookworm](https://github.com/gethugothemes/bookworm-light) theme.
+I made this site with the [https://gohugo.io/](https://gohugo.io/ "Go Hugo Framework") and used the[Bookworm](https://github.com/gethugothemes/bookworm-light) as a starting theme.

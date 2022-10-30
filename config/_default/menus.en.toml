@@ -31,12 +31,6 @@ hasChildren = true
   [[main]]
   parent = "Pages"
   weight = 3
-  url = "tags/photography/"
-  name = "Tag Single"
-  
-  [[main]]
-  parent = "Pages"
-  weight = 4
   url = "categories/"
   name = "Category"
 

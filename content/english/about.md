@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-image: images/about.jpg
+image: images/about.png
 caption:
   enable: true
   title: "I’m Vincent Verstraeten and welcome to The Healthy Endpoint."

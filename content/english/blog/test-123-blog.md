@@ -5,7 +5,7 @@ date = 2022-10-29T22:00:00Z
 description = "Launching my blog "
 images = ["/images/hugoblog.png"]
 tags = []
-title = "Starting my Blog."
+title = "New Blog"
 
 +++
 Hi There,

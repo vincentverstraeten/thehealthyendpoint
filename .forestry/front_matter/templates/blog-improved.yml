@@ -23,3 +23,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- content/english/blog/test-123-blog.md

@@ -28,7 +28,10 @@ The signature is saved in Outlook here:
 %APPDATA%\Roaming\Microsoft\Signatures 
 ```
 Or
-The signature is backed up here in Onedrive and we need to set it back to Outlook.
+
+The signature is backed up here in Onedrive and we need to set it back to Outlook. 
+This is problably an existing employee that has gotten a new device.
+
 ```Powershell
 #Onedrive directory
 C:\Users\yourname\your-onedrive-folder\Signatures

@@ -78,10 +78,10 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
-image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
+keywords = ["MDM", "Intune", "Microsoft", "Security"]
+description = "The Healthy Endpoint"
+author = "Vincent Verstraeten"
+image = "images/healthynobgpng.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
 [matomo]

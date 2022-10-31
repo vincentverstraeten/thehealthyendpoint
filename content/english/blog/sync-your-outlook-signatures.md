@@ -10,7 +10,7 @@ title = "Sync your Outlook signature with Onedrive"
 +++
 #### Why
 
-Our IT Team still gets alot of calls with the question how to get their Outlook signature back when they receive a new device.
+Our IT Team still gets alot of calls with the question how to get their Outlook signature back when users receive a new device.
 
 I know Microsoft is hard at work on this issue but do not have a solution currently.
 

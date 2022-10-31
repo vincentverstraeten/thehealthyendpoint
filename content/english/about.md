@@ -29,8 +29,12 @@ what_i_do:
     description: Remediate and manage at scale trough automations.
 
 ---
-I specialise in automation and modern system management. 
+In 2016 i got diagnosed with MS and had to quit my job as a schoolteacher. 
 
-This blog reflects the difficulties & problems that i face while a manage my endpoints.
+Switched fulltime to IT and specialised myself in device management. 
+
+Now i'm on a path of constant learning and i love what i do now.
+
+I live as healthy as possible on a wholefood plant-based and try to stay really active.
 
 I hope you enjoy reading some of my contributions.

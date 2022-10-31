@@ -24,12 +24,6 @@ hasChildren = true
   
   [[main]]
   parent = "Pages"
-  weight = 2
-  url = "tags/"
-  name = "Tags"
-  
-  [[main]]
-  parent = "Pages"
   weight = 3
   url = "categories/"
   name = "Category"

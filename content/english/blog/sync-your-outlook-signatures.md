@@ -9,7 +9,9 @@ title = "Sync your Outlook signature with Onedrive"
 
 +++
 #### Intro
-Our Helpdesk was telling me that they had alot of calls when employees get a new device and they need to setup their outlook signature again.
+Microsoft is still working (2 years) on their own Outlook signature sync. Our helpdesk still gets alot of calls with the question how to get their Outlook signature back when they receive a new device. 
+
+To reduce the workload i decided to find a solution for this signature problem.
 
 My colleague gave me an interesting link from a blog from [Jose Gabriel Ortega C](https://j0rt3g4.medium.com/save-your-outlook-signatures-into-onedrive-and-never-lose-them-again-1337fc1924b6). 
 I really liked his idea of saving the signature in Onedrive. 

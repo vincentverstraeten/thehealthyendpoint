@@ -70,11 +70,15 @@ cmd /c mklink /J $LocalOutlookSignature $SignatureOnedrive
 
 Done! The only thing that needs to be done by the end-user is enable the "new messages" and "replies/forwards" in the picture below.
 
-![](https://github.com/vincentverstraeten/thehealthyendpoint/blob/main/assets/images/screenshotoutlook.png)
+##### Image
+{{< image src="images/screenshotoutlook.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid w-100" title="image title"  webp="false" >}}
+dfsf
 
-_If someone knows how to automatically enable the new messages and Replies/forwards with a registry key? Please contact me!_
 
-_Because we still need to get the end-user to do something in the end...._
+
+If someone knows how to automatically enable the new messages and Replies/forwards with a registry key? Please contact me!_
+
+Because we still need to get the end-user to do something in the end....
 
 #### Get the code here below:
 

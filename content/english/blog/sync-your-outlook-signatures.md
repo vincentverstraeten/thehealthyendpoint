@@ -1,18 +1,13 @@
 +++
 author = "Vincent"
-categories = []
+categories = ["Microsoft 365"]
 date = 2022-10-30T20:00:00Z
 description = "Outlook signatures"
-images = ["/images/syncoutllooksmaller.png"]
+images = ["/images/syncoutllookaltered.png"]
 tags = []
-title = "Sync your Outlook Signatures"
+title = "Sync your Outlook signature with Onedrive"
 
 +++
 Sync your outlook signatures
 
     test code block
-
-```powershell
-var s = "JavaScript syntax highlighting";
-alert(s);
-```

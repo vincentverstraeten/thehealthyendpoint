@@ -68,7 +68,7 @@ The junction makes sure if you update your Outlook folder, the changes will upda
 cmd /c mklink /J $LocalOutlookSignature $SignatureOnedrive
 ```
 
-Done! The only thing that needs to be done by the end-user is enable the "new messages" and "replies/forwards" in the picture below.
+The only thing that needs to be done by the end-user is enable the "new messages" and "replies/forwards" in the picture below.
 
 {{< image src="images/screenshotoutlook.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid w-100" title="image title"  webp="false" >}}
 
@@ -77,7 +77,9 @@ Please contact me!
 
 Because we still need to get the user to do something in the end....
 
-#### Get the code here below:
+Make sure to test the script before you use this in production!
+
+#### Get the script:
 
 Use [this link](https://github.com/vincentverstraeten/Powershell-Scripts/tree/main/Proactive%20Remediations/Sync%20Outlook%20Signatures) to get the whole proactive remediation script from my github page.
 

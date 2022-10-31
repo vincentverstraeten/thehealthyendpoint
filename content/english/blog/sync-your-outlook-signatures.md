@@ -29,7 +29,7 @@ The signature is saved in Outlook here:
 Or
 The signature is backed up here in Onedrive and we need to set it back to Outlook.
 ```Powershell
-#Windows directory
+#Onedrive directory
 C:\Users\yourname\your-onedrive-folder\Signatures
 ```
 

@@ -10,4 +10,7 @@ title = "Sync your Outlook signature with Onedrive"
 +++
 Sync your outlook signatures
 
-    test code block
+```powershell
+var s = "JavaScript syntax highlighting";
+alert(s);
+```

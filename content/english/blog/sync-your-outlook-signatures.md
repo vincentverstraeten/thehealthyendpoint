@@ -9,13 +9,14 @@ title = "Outlook signature sync with Onedrive"
 
 +++
 #### Intro
-Microsoft is still working (2 years) on their own Outlook signature sync. Our helpdesk still gets alot of calls with the question how to get their Outlook signature back when they receive a new device. 
+Our helpdesk still gets alot of calls with the question how to get their Outlook signature back when they receive a new device. 
 
-To reduce the workload i decided to find a solution for this signature problem.
+I know Microsoft is hard at work on this issue but do not have a solution currently.
+
+To reduce the workload for our helpdesk team i tried to tackle this problem with proactive remediation.
 
 My colleague gave me an interesting link from a blog from [Jose Gabriel Ortega C](https://j0rt3g4.medium.com/save-your-outlook-signatures-into-onedrive-and-never-lose-them-again-1337fc1924b6). 
-I really liked his idea of saving the signature in Onedrive. 
-While i examined his code i decided i could make it a bit more robust when giving out new devices to our employees.
+I really liked his idea of saving the signature in Onedrive. I decided to go a step further with proactive remediation and rewrite his solution in powershell.
 
 My proactive remediation script consists of a detection and a remediation script.
 

@@ -33,8 +33,8 @@ In 2016 i got diagnosed with MS and had to quit my job as a schoolteacher.
 
 Switched fulltime to IT and specialised myself in device management. 
 
-Now i'm on a path of constant learning and i love what i do now.
+Now i'm on a path of constant learning and love what i do now.
 
-I live as healthy as possible on a wholefood plant-based "hence the name of this blog" and try to stay active.
+I live as healthy as possible on a wholefood plant-based "hence the name of this blog" and doing great with it!
 
 I hope you enjoy reading some of my contributions.

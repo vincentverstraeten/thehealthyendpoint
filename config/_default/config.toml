@@ -7,7 +7,7 @@ timeZone = "UTC"
 # post pagination
 paginate = "6" # see https://gohugo.io/extras/pagination/
 # post excerpt
-summaryLength = "25" # see https://gohugo.io/content-management/excerpts/
+summaryLength = "45" # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name

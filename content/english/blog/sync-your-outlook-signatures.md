@@ -68,9 +68,9 @@ The junction makes sure if you update your Outlook folder, the changes will upda
 cmd /c mklink /J $LocalOutlookSignature $SignatureOnedrive
 ```
 
-Done! The only thing that needs to be done by the end-user is enable the
+Done! The only thing that needs to be done by the end-user is enable the "new messages" and "replies/forwards" in the picture below.
 
-"new messages" and "replies/forwards" in the picture below.
+![](/images/screenshotoutlook.png)
 
 _If someone knows how to automatically enable the new messages and Replies/forwards with a registry key? Please contact me!_
 

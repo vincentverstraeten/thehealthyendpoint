@@ -8,7 +8,7 @@ tags = []
 title = "Sync your Outlook signature with Onedrive"
 
 +++
-### Intro
+#### Intro
 Our Helpdesk was telling me that they had alot of calls when employees get a new device and they need to setup their outlook signature again.
 
 My colleague gave me an interesting link from a blog from [Jose Gabriel Ortega C](https://j0rt3g4.medium.com/save-your-outlook-signatures-into-onedrive-and-never-lose-them-again-1337fc1924b6). 
@@ -17,7 +17,7 @@ While i examined his code i decided i could make it a bit more robust when givin
 
 My proactive remediation script consists of a detection and a remediation script.
 
-### Detection script.
+#### Detection script.
 
 First it gets the paths of all the locations the Outlook signature could be and does some checks.
 
@@ -44,5 +44,5 @@ We trigger the remediation script.
 
 3. If there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
 
-### Remediation script.
+#### Remediation script.
 

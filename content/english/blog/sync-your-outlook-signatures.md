@@ -17,7 +17,7 @@ While i examined his code i decided i could make it a bit more robust when givin
 
 My proactive remediation script consists of a detection and a remediation script.
 
-### What does my detection script do?
+### Detection script.
 
 First it gets the paths of all the locations the Outlook signature could be and does some checks.
 
@@ -44,4 +44,5 @@ We trigger the remediation script.
 
 3. IF there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
 
+### Remediation script.
 

@@ -17,7 +17,7 @@ While i examined his code i decided i could make it a bit more robust when givin
 
 My proactive remediation script consists of a detection and a remediation script.
 
-#### Detection script.
+#### The Detection script.
 
 First it gets the paths of all the locations the Outlook signature could be and does some checks.
 

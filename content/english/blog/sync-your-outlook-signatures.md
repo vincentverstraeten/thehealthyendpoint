@@ -8,7 +8,7 @@ tags = []
 title = "Outlook signature sync with Onedrive"
 
 +++
-#### Intro
+#### Why
 
 Our IT Team still gets alot of calls with the question how to get their Outlook signature back when they receive a new device.
 

@@ -18,9 +18,8 @@ What does my detection script do?
 
 First it gets the paths of all the locations the Outlook signature could be.
 
-The outlook signatured is saved in this folder by Outlook: 
+The outlook signatured is saved in this folder by Outlook.
 
-'''PowerShell 
-%APPDATA%\\Roaming\\Microsoft\\Signatures 
-
+'''PowerShell
+%APPDATA%\Roaming\Microsoft\Signatures 
 '''

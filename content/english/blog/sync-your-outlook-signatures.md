@@ -3,7 +3,7 @@ author = "Vincent"
 categories = ["Microsoft 365"]
 date = 2022-10-30T20:00:00Z
 description = "Outlook signatures"
-images = ["/images/screenshotoutlook.png", "/images/syncoutllookaltered.png"]
+images = ["/images/syncoutllookaltered.png"]
 tags = []
 title = "Outlook signature sync with Onedrive"
 

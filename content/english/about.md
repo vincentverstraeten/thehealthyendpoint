@@ -35,6 +35,6 @@ Switched fulltime to IT and specialised myself in device management.
 
 Now i'm on a path of constant learning and found a new passion.
 
-I try to live really healthy on a wholefood plant-based "hence the name of this blog" and doing great with it.
+I try to stay active and live healthy on a wholefood plant-based diet "hence the name of this blog".
 
 I hope you enjoy reading some of my contributions.

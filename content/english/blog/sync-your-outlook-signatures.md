@@ -5,7 +5,7 @@ date = 2022-10-30T20:00:00Z
 description = "Outlook signatures"
 images = ["/images/syncoutllookaltered.png"]
 tags = []
-title = "Outlook signature sync with Onedrive"
+title = "Sync your Outlook signature with Onedrive"
 
 +++
 #### Why

@@ -29,7 +29,7 @@ what_i_do:
     description: Remediate and manage at scale trough automations.
 
 ---
-In 2016 i got diagnosed with MS and had to quit my job as a schoolteacher. 
+In 2016 i got diagnosed with MS and had to stop my job as a schoolteacher. 
 
 Switched fulltime to IT and specialised myself in device management. 
 

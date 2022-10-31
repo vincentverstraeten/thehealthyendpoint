@@ -23,7 +23,7 @@ First it gets the paths of all the locations the Outlook signature could be.
 The outlook signatured is saved in this folder by Outlook.
 
 ```Powershell
+#Windows directory
 %APPDATA%\Roaming\Microsoft\Signatures 
-alert(s);
 ```
 

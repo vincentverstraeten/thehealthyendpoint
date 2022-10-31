@@ -9,11 +9,12 @@ title = "Outlook signature sync with Onedrive"
 
 +++
 #### Intro
-Our IT Team still gets alot of calls with the question how to get their Outlook signature back when they receive a new device. 
+
+Our IT Team still gets alot of calls with the question how to get their Outlook signature back when they receive a new device.
 
 I know Microsoft is hard at work on this issue but do not have a solution currently.
 
-My colleague gave me an interesting link from a blog from [Jose Gabriel Ortega C](https://j0rt3g4.medium.com/save-your-outlook-signatures-into-onedrive-and-never-lose-them-again-1337fc1924b6). 
+My colleague gave me an interesting link from a blog from [Jose Gabriel Ortega C](https://j0rt3g4.medium.com/save-your-outlook-signatures-into-onedrive-and-never-lose-them-again-1337fc1924b6).
 I really liked his idea of saving the signature in Onedrive. I decided to go a step further with proactive remediation and rewrite his solution in powershell.
 
 My proactive remediation script consists of a detection and a remediation script.
@@ -23,13 +24,15 @@ My proactive remediation script consists of a detection and a remediation script
 First it gets the paths of all the locations the Outlook signature could be and does some checks.
 
 The signature is saved in Outlook here:
+
 ```Powershell
 #Windows directory
 %APPDATA%\Roaming\Microsoft\Signatures 
 ```
+
 Or
 
-The signature is backed up here in Onedrive and we need to set it back to Outlook. 
+The signature is backed up here in Onedrive and we need to set it back to Outlook.
 This is problably an existing employee that has gotten a new device.
 
 ```Powershell
@@ -39,35 +42,50 @@ C:\Users\yourname\your-onedrive-folder\Signatures
 
 We have 3 options in my detection script.
 
-##### 1. 
-There is no Outlook signature present in Outlook %APPDATA% or in the signatures folder in Onedrive. 
-This is probably a new employee that needs to setup its Outlook signature for the first time. 
+##### 1.
+
+There is no Outlook signature present in Outlook %APPDATA% or in the signatures folder in Onedrive.
+This is probably a new employee that needs to setup its Outlook signature for the first time.
 We do nothing.
 
-##### 2. 
-If there is a Outlook signature in Onedrive or Outlook %APPDATA% folder. 
+##### 2.
+
+If there is a Outlook signature in Onedrive or Outlook %APPDATA% folder.
 We trigger the remediation script.
 
-##### 3. 
+##### 3.
+
 If there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
 
 #### The Remediation script.
 
-The remediation script makes a Onedrive signatures map or a Outlook signature folder. 
-Then it will create a junction between Outlook and your Outlook signature map. 
+The remediation script makes a Onedrive signatures map or a Outlook signature folder.
+Then it will create a junction between Outlook and your Outlook signature map.
 The junction makes sure if you update your Outlook folder, the changes will update in your Outlook signature folder too!
+
 ```Powershell
 #Make folder junction
 cmd /c mklink /J $LocalOutlookSignature $SignatureOnedrive
 ```
 
-Done! Your Outlook signature is backed up and will sync with your next device!
+Done! The only thing that needs to be done by the end-user is enable the 
 
-Use [this link](https://github.com/vincentverstraeten/Powershell-Scripts/tree/main/Proactive%20Remediations/Sync%20Outlook%20Signatures) to get the proactive remediation script from my github page.
+"new messages" and "replies/forwards" in the picture below.
+
+![](/images/screenshotoutlook.png)
+
+_If someone knows how to automatically enable the new messages and Replies/forwards with a registry key? Please contact me!_ 
+
+_Because we still need to get the end-user to do something in the end...._
+
+#### Get the code here below:
+
+Use [this link](https://github.com/vincentverstraeten/Powershell-Scripts/tree/main/Proactive%20Remediations/Sync%20Outlook%20Signatures) to get the whole proactive remediation script from my github page.
 
 Or copy paste the code below:
 
 #### Detection.ps1
+
 ```Powershell
 #detection.ps1
 #=============================================================================================================================
@@ -109,6 +127,7 @@ catch{
 ```
 
 #### Remediation.ps1
+
 ```Powershell
 #=============================================================================================================================
 # Script Name: Backup Outlook Signature to onedrive
@@ -156,10 +175,3 @@ if (!((Get-Item -Path $LocalOutlookSignature  -Force).LinkType -eq "Junction")) 
     cmd /c mklink /J $LocalOutlookSignature $SignatureOnedrive
 }
 ```
-
-
-
-
-
-
-

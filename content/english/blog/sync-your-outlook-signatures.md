@@ -35,14 +35,17 @@ C:\Users\yourname\your-onedrive-folder\Signatures
 
 We have 3 options in my detection script.
 
-1. There is no Outlook signature present in Outlook %APPDATA% or in the signatures folder in Onedrive. 
+##### 1. 
+There is no Outlook signature present in Outlook %APPDATA% or in the signatures folder in Onedrive. 
 This is probably a new employee that needs to setup its Outlook signature for the first time. 
 We do nothing.
 
-2. If there is a Outlook signature in Onedrive or Outlook %APPDATA% folder. 
+##### 2. 
+If there is a Outlook signature in Onedrive or Outlook %APPDATA% folder. 
 We trigger the remediation script.
 
-3. If there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
+##### 3. 
+If there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
 
 #### Remediation script.
 

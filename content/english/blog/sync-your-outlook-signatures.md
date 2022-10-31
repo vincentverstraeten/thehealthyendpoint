@@ -42,7 +42,7 @@ We do nothing.
 2. If there is a Outlook signature in Onedrive or Outlook %APPDATA% folder. 
 We trigger the remediation script.
 
-3. IF there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
+3. If there is a onedrive backup folder and a %APPDATA% folder. Your signature is synced between Onedrive and Outlook. Ofcourse we do not trigger the remediation script now.
 
 ### Remediation script.
 

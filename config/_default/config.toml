@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://imaginative-sherbet-7b270d.netlify.app"
+baseURL = "https://www.healthy-endpoint.com"
 title = "The Healthy Endpoint"
 theme = "bookworm"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List

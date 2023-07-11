@@ -30,4 +30,5 @@ what_i_do:
 
 ---
 Vincent is a driven professional with a diverse background in education and information technology. 
+
 After facing health challenges, he made a determined shift from teaching to the world of IT. With an unwavering passion for technology, Vincent adeptly bridges the gap between managing endpoints with limited budgets and infrastructure, transitioning from schools to large enterprises. His dedication to securing and automating endpoint management continues to fuel his unwavering passion.

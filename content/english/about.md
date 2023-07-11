@@ -29,10 +29,5 @@ what_i_do:
     description: Remediate and manage at scale trough automations.
 
 ---
-In 2016 i got diagnosed with MS and had to stop my job as a schoolteacher, switched fulltime to IT and specialised myself in device management. 
-
-Now i'm on a path of constant learning and found a new passion.
-
-I try to stay active and live healthy on a wholefood plant-based diet "hence the name of this blog".
-
-I hope you enjoy reading some of my contributions.
+Vincent is a driven professional with a diverse background in education and information technology. 
+After facing health challenges, he made a determined shift from teaching to the world of IT. With an unwavering passion for technology, Vincent adeptly bridges the gap between managing endpoints with limited budgets and infrastructure, transitioning from schools to large enterprises. His dedication to securing and automating endpoint management continues to fuel his unwavering passion.
